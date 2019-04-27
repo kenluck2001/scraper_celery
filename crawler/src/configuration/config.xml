@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <Configuration>
+        <Website>
+            <Url>http://www.yahoo.com</Url>
+        </Website>
+        <Website>
+            <Url>http://www.google.com</Url>
+        </Website>
+        <Website>
+            <Url>http://www.twitter.com</Url>
+        </Website>
+        <Website>
+            <Url>http://www.ewtn.com</Url>
+        </Website>
+        <Website>
+            <Url>http://localhost:12345/</Url>
+        </Website>
+        <Time>
+            <Hour>1</Hour>
+            <Minute>15</Minute>
+            <Day_Of_Week>*</Day_Of_Week>
+        </Time>
+    </Configuration>
+
+
